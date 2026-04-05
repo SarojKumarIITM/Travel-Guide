@@ -27,7 +27,7 @@ This project was created to practice and demonstrate basic HTML skills such as:
 
 ## 📸 Screenshot
 
-![Website Screenshot](project overview)
+![Website Screenshot](projectoverview.png)
 
 ## 📬 Author
 Saroj Kumar Yadav
