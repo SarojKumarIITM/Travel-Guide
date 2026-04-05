@@ -14,6 +14,8 @@ The project showcases popular travel destinations in India with a clean and user
 
 ## 🌐 Live Demo
  https://sarojkumariitm.github.io/Travel-Guide/
+ ## 💻 Source Code
+ https://github.com/SarojKumarIITM/Travel-Guide
 
 ## 📂 Project Structure
 - index.html
