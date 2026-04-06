@@ -27,9 +27,9 @@ This project was created to practice and demonstrate basic HTML skills such as:
 - Semantic tags
 - Content organization
 
-## 📸 Screenshot
+## Project overview
 
-![Website Screenshot](projectoverview.png.png)
+![project overview ](projectoverview.png)
 
 ## 📬 Author
 Saroj Kumar Yadav
